@@ -1,2 +1,3 @@
 # customer_behavior_analysis
-Data Analysis project end-to-end industry standard Data Analysis of Customer Behavior Shopping Trends from Retail Data using Python, MySQL and Power BI.
+Overview
+This project demonstrates a full-cycle data analytics workflow: from ingestion and cleaning to advanced SQL querying and interactive visualization. The primary goal was to transform messy, raw data into actionable business insights regarding revenue trends, customer demographics, and product performance.
